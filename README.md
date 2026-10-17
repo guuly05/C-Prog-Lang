@@ -13,6 +13,7 @@ with an `assignment_` prefix so that the learning history is not lost.
 
 The C files are organized by the main concept they practice:
 
+
 | Chapter | What it covers |
 | --- | --- |
 | [`01-basics`](./01-basics) | Hello world, output, formatting, and simple expressions |
