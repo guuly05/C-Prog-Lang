@@ -1,0 +1,15 @@
+# Generated Windows executables
+/build/
+*.exe
+
+# Visual Studio generated files
+/.vs/
+
+# User-specific files
+/bootstrap
+
+
+
+
+
+
